@@ -13,3 +13,7 @@ $ yarn
 
 ## Execute a aplicação em modo de desenvolvimento
 $ yarn dev
+
+##
+
+ * By Samila Castro 🌠
